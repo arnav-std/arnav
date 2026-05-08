@@ -1,2 +1,2 @@
-# arnav
+# about me
 personal repository
